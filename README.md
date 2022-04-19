@@ -11,3 +11,6 @@ This repository is for showing how Git and GitHub work
 ballia is a beautiful place
 Sample website with plenty of files for demos
 #bagiballia
+
+##copyright
+2022 git training
